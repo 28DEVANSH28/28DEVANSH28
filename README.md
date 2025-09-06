@@ -6,7 +6,7 @@
 
 ### 🌟 About Me
 - 🔍 Skilled in **SQL, Excel, and Power BI** for analytics and visualization  
-- 🤖 Hands-on project experience with **Python, Pandas, NumPy, and Machine Learning**  
+- 🤖 Hands-on project experience with **Python, Pandas, NumPy, Machine Learning, Excel, SQL and Power BI**  
 - 🎯 Strong interest in solving problems and making data speak through insights  
 - 📫 Reach me at **[kdevansh455@gmail.com](mailto:kdevansh455@gmail.com)**  
 - ⚡ Fun fact: I believe learning never stops 🚀  
